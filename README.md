@@ -46,6 +46,13 @@ The database comprises the following tables:
 
 ### **Total Records:** Approximately **1.43 million**.
 
+### **Insights** 
+- India leads in Gross sales, with a total sales of 1.4 Billion.
+- AQ Pen drive DRC has the highest quantity sold, reaching 2.03 Millions units.
+- Amazon has the highest net sales in fiscal year 2021 which is 109.3 million.
+- India earned Gold badge in 2021 having 5.3 Million quantity sold.
+
+
 ## **Technical Skills Gained:**  
 - **SQL Queries:** Developed proficiency in crafting complex queries with joins, subqueries, and window functions.  
 - **Data Extraction:** Mastered techniques to efficiently extract specific data points from large datasets.  
